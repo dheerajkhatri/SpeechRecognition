@@ -1,0 +1,15 @@
+Details about Assignment 1
+Assignment has to be submitted on A4 sheets. 
+Use the following format for your submission of assignments:
+1.Problem Statement: Write the title e.g. The Yes-No recognition expt.
+2.Flow Chart of the algorithm
+3.Hand Written Algorithm 
+(a)Describe Algorithm used.
+(b)Processing Applied.
+(c)Expected input & output.
+Note:
+1. Write the date and time of submission on top of your assignments before submitting.
+2. The assignments should be submitted by 16:59 hrs, 03/08/2015, Monday.
+3. TAs (Dipangshu , Sujata , Sachin) will be present in M.Tech 2nd year lab, hand it over to them.
+Regards,
+TAs

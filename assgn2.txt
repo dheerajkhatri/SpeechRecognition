@@ -1,0 +1,20 @@
+Visual studio project format for Assignment 2-B
+1. Create two folders "Input" and "Output" to store input and output respectively.
+2. Keep input to the program in "Input.txt". This file should have only one word "Yes/No/only noise". You can keep multiple input files in "Input folder".
+3. Write output to "Output.txt" and it should have following details
+i. Number of samples:
+ii. Number of frames:
+iii. Recognized word: "Yes/No/Noise"
+4. Create a "Configuration.txt" to store all configurations details/ constants required for program. You should read configurations from this file only.
+Mandatory entry includes
+i. Frame Size:
+5. Create "Readme.txt" and write following details in it
+i. Roll No:
+ii. Name:
+iii. Assignment: 2-B Recognition of Yes/No/Noise from given input file.
+iv. Visual Studio version:
+v. Steps to execute your code
+Note: 
+1. The assignment should be submitted by 9.59pm hrs, 14/08/2015, Friday.
+2. Upload link will be posted soon.
+3. If you have any queries, immediately post here.

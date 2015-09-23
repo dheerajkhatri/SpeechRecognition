@@ -1,0 +1,20 @@
+I am instructed by the course coordinator Dr. Pradip K Das to inform you all to upload your assignments of "k-means" as complete zipped file containing complete visual studio project.
+1. The expected outputs are the codebook & a graph showing the distortion vs no. of iterations.
+2. Log file should contain the various intermediate outputs like the no. of vectors that are allotted to each cluster as you go through the k-means algorithm. Also the distortion for the current codebook at that time.
+3. PFA Universe.csv
+Note:
+1.The deadline for submission is 06:00 pm Saturday, September 12th 2014.
+2. Create a "Configuration.txt" to store all configurations details/ constants required for program. You should read configurations from this file only.
+Mandatory entry includes
+i. Frame Size:
+3. Create "Readme.txt" and write following details in it
+i. Roll No:
+ii. Name:
+iii. Assignment: 5 K-means.
+iv. Visual Studio version:
+v. Steps to execute your code
+4. The assignment should be submitted by 06.00pm, 12/09/2015, Saturday.
+5. Upload link: https://172.16.117.149/CS566_uploader/
+6. If you have any queries, immediately post here.
+7. The naming convention for your projects is:
+<roll_no>_<Assignment_no>_<name>.zip

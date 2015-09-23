@@ -1,0 +1,27 @@
+I have been instructed by the course coordinator Dr. Pradip K Das to inform you all to upload 4B assignment.
+The 4B assignment is to write a program to generate the cepstral coefficients for an utterance
+Your program should have the following features.
+1) Normalization and DC Shift of the waveform.
+2) Select middle frame of waveform.
+3) Apply Hamming window on this frame.
+4) Calculate Ri,Ai and Ci.
+5) Save these values onto a csv file.
+Visual Studio Project details:
+1. Create two folders "Input" and "Output" to store input and output respectively.
+2. Input folder should have 5 files each containing one vowel (a.txt,e.txt,i.txt,o.txt,u.txt).
+3 Output folder should have respective 5 csv files.
+4. Create a "Configuration.txt" to store all configurations details/ constants required for program. You should read configurations from this file only.
+Mandatory entry includes
+i. Frame Size:
+5. Create "Readme.txt" and write following details in it
+i. Roll No:
+ii. Name:
+iii. Assignment: 4B Calculate cepstral coefficients for vowels.
+iv. Visual Studio version:
+v. Steps to execute your code
+Note:
+1. The assignment should be submitted by 7.59pm hrs, 31/08/2015, Monday.
+2. Upload link: https://172.16.117.149/CS566_uploader/
+3. If you have any queries, immediately post here.
+4. The naming convention for your projects is:
+<roll_no>_<Assignment_no>_<name>.zip

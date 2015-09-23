@@ -1,0 +1,24 @@
+Visual studio project format for Assignment 3:
+The 3rd assignment is to automate the assignment 2b. It means that the input file should not be recorded from Cool Edit, it should be directly obtained from the utility attached. The utility provides the recording for certain seconds as specified in the command line arguments.
+1. Create two folders "Input" and "Output" to store input and output respectively.
+2. Keep input to the program in "Input.txt". This file should have only one word "Yes/No/only noise". You can keep multiple input files in "Input folder".
+3. Write output to "Output.txt" and it should have following details
+i. Number of samples:
+ii. Number of frames:
+iii. Recognized word: "Yes/No/Noise"
+4. Create a "Configuration.txt" to store all configurations details/ constants required for program. You should read configurations from this file only.
+Mandatory entry includes
+i. Frame Size:
+5. Create "Readme.txt" and write following details in it
+i. Roll No:
+ii. Name:
+iii. Assignment: 3 Automated recognition of Yes/No/Noise from given input file.
+iv. Visual Studio version:
+v. Steps to execute your code
+Note:
+1. The assignment should be submitted by 9.59pm hrs, 23/08/2015, Sunday.
+2. Upload link: https://172.16.117.149/CS566_uploader/
+3. If you have any queries, immediately post here.
+4. The naming convention for your projects is:
+<roll_no>_<Assignment_no>_<name>.zip
+5. Use the Recording_Module.exe file posted in the group for recording from within the program itself.
